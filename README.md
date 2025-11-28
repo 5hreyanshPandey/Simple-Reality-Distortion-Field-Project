@@ -13,6 +13,8 @@ A real-time visual manipulation system that applies surreal distortions to live 
 
 * Python
 * OpenCV
+* Numpy
+* Tkinter 
 * GPU Acceleration
 
 
