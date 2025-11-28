@@ -30,6 +30,3 @@ Real-time distorted video effects that redefine normal perception with artistic 
 Shreyansh Pandey
 B.Tech CSE, BIT Durg
 
----
-
-If you want a **more professional**, **research-style**, or **creative theme-based README**, just tell me 👍
